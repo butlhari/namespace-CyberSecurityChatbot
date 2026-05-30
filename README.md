@@ -1,2 +1,2 @@
-# namespace CyberSecurityChatbot
+# CyberSecurityChatbot
 

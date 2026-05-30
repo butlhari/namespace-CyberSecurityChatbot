@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe.config
+C:\Users\Student\Desktop\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\Desktop\CyberSecurityChatbot\bin\Debug\CyberSecurityChatbot.pdb
+C:\Users\Student\Desktop\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.exe
+C:\Users\Student\Desktop\CyberSecurityChatbot\obj\Debug\CyberSecurityChatbot.pdb

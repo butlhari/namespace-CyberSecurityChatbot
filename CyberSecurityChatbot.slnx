@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CyberSecurityBotGUI/CyberSecurityBotGUI.csproj" Id="4a45853c-0d53-4d52-98e6-e7e85a23faa2" />
+  <Project Path="CyberSecurityChatbot.csproj" Id="2fba5333-2dea-4711-a769-3b34451ea8c8" />
+</Solution>
